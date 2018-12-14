@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Open+Sans|Raleway|Slabo+27px");
+img {
+  border-radius: 40%;
+  max-width: 100%; }
+
+.leftwrapper {
+  background-color: #d9d9d9;
+  color: #636466; }
+
+.rightwrapper {
+  background-color: #404040;
+  color: #ffffff; }
+
+h1, .lefttext {
+  font-family: 'Slabo 27px', serif; }
+
+h1 {
+  text-align: center; }
+
+h2 {
+  text-align: left;
+  font-family: 'Raleway', sans-serif; }
+
+.lefttext {
+  text-align: center; }
+
+.justify {
+  text-align: justify; }
+
+.center {
+  text-align: center; }
+
+.justify, .center {
+  font-family: 'Open Sans', sans-serif; }
+
+h3 {
+  font-family: 'Raleway', sans-serif; }
+
+hr {
+  color: #808080; }
+
+.sans {
+  font-family: 'Open Sans', sans-serif;
+  text-align: justify; }
+
+i {
+  font-size: 30px; }
+
+.row {
+  padding: 0px; }
+
+/*# sourceMappingURL=style.css.map */
